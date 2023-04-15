@@ -1,47 +1,67 @@
 # Book Search Engine Starter Code
 
-
 ## Description
+
 A search engine where you are able to search any book. The user will be able to save their favorite books as well.
 
 ## Visuals
-
 
 ## Installation
 
 For installation the following is required:
 
-  ``` 
-  npm install express (express.js)
-  ```
- 
-  ```  
-  npm install --save-dev webpack (Webpack)
-  ```
-  
-  ```
-  npm install webpack-dev-server --save-dev (webpack-dev-server)
-  ```
+```
+npm install
+```
 
-  ```  
-  npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
-  ```
+```
+npm install express (express.js)
+```
 
-  ```  
-  npm install babel (Babel)
-  ```
+```
+npm install --save-dev webpack (Webpack)
+```
 
-  ```  
-  npm install --save-dev css-loader (CSS-loader)
-  ```
+```
+npm install webpack-dev-server --save-dev (webpack-dev-server)
+```
 
-  ```  
-  npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-  ```
+```
+npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
+```
 
-  ```
-  npm npm install idb (IndexedDB)
-  ```
+```
+npm install babel (Babel)
+```
+
+```
+npm install --save-dev css-loader (CSS-loader)
+```
+
+```
+npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
+```
+
+```
+npm install idb (IndexedDB)
+```
+
+```
+npm install mongoose (Mongodb)
+```
+
+```
+npm install bcrypt (bcrypt)
+```
+
+```
+npm install jsonwebtoken (JsonWebToken)
+```
+
+```
+npm install apollo-server-express
+```
+
 ## Usage
 
 ![Search Engine Demo 1](Assets/21-mern-homework-demo-01.gif)
@@ -49,12 +69,13 @@ For installation the following is required:
 ![Search Engine Demo 2](Assets/21-mern-homework-demo-02.gif)
 
 ![Search Engine Demo 3](Assets/21-mern-homework-demo-03.gif)
+
 ## Support
 
-If you have any questions or concerns, support can be reached at DJonHarrison94@gmail.com
-
+If you have any questions or concerns, support can be reached at DJonHarrison94@gmail.com.
 
 ## License
+
 MIT License
 
 Copyright (c) 2023 DJonJasmine
@@ -76,5 +97,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
